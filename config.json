@@ -1,4 +1,0 @@
-{
-    "mongodb": "mongodb://localhost:27017/news_app",
-    "log": true
-}
