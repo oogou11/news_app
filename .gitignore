@@ -1,0 +1,10 @@
+#编译文件
+lib/
+bin/`
+
+#node_module
+node_modules/
+
+#readme
+README.md
+
